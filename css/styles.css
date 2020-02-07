@@ -1,0 +1,8 @@
+@media screen and (min-width: 480px) add (max-width: 767px){
+    body {background-color: darkblue; color: white} 
+
+}
+@media screen and {(min-width: 769px)
+    body{background-color: yellowgreen;}
+.colomn{width: 220px; float: left; padding: 15px;}
+}
