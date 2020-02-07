@@ -1,8 +1,8 @@
-@media screen and (min-width: 480px) add (max-width: 767px){
-    body {background-color: darkblue; color: white} 
+h1{color: blue; font-weight: bolder; font-style: italic;}
+h2{color: blueviolet; font-weight: bold;}
+p{color: black;}
+body{background-color: seashell;}
 
-}
-@media screen and {(min-width: 769px)
-    body{background-color: yellowgreen;}
-.colomn{width: 220px; float: left; padding: 15px;}
-}
+@media screen and (min-width: 768){
+.column{width: 22opx; float:left; padding:15px; margin: 10px; border: 12px solid black;}
+.images{height: 400; width 390}
