@@ -1,8 +1,11 @@
 h1{color: blue; font-weight: bolder; font-style: italic;}
 h2{color: blueviolet; font-weight: bold;}
 p{color: black;}
-body{background-color: seashell;}
+body{background-color: skyblue;}
 
-@media screen and (min-width: 768){
-.column{width: 22opx; float:left; padding:15px; margin: 10px; border: 12px solid black;}
-.images{height: 400; width 390}
+@media (min-widt: 40px) and (max-width:767px) {
+    body{background-color: black; color: white;}
+}
+@media screen and (min-width: 768px) {
+.column{width: 220px; float: left; padding: 15px;}
+.images{height: 380px; width: 300px;}
