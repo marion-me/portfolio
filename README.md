@@ -11,6 +11,6 @@
 { HTML and CSS. }
 
 ### License
-*{MIT.}*
-Copyright (c) {2020} **{marion}**
+{MIT.}
+Copyright (c) {2020} [MIT license] (license)
   
