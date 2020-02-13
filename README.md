@@ -12,7 +12,7 @@
 { HTML and CSS. }
 
 ### License
-{MIT.}
+{MIT}
 Copyright (c) {2020} Marionvutagwa, moringa school 
-Licensed under [MIT license] (LICENSE)
+Licensed under the [MITlicense] (LICENSE)
   
