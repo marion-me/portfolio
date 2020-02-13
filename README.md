@@ -12,5 +12,5 @@
 
 ### License
 {MIT.}
-Copyright (c) {2020} [MIT license] (license)
+Copyright (c) {2020} {MIT license} (license)
   
