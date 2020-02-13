@@ -5,12 +5,14 @@
 ## Description
 {this is may first webpage portfolio }
 ## Setup/Installation Requirements
-* Clone 
-#[link](http://)
+* DOwnload chorme
+* install chrome
+* open the link
 ## Technologies Used
 { HTML and CSS. }
 
 ### License
 {MIT.}
-Copyright (c) {2020} {MIT license} (license)
+Copyright (c) {2020} Marionvutagwa, moringa school 
+Licensed under [MIT license] (LICENSE)
   
